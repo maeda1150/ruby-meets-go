@@ -15,6 +15,11 @@ $ go version                                                                    
 go version go1.10.3 darwin/amd64
 ```
 
+```bash
+$ gem list | grep ffi
+ffi (1.9.25)
+```
+
 ## Build
 
 ```bash
